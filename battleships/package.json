@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jasmine": "^2.5.2"
+    "chai": "^3.5.0",
+    "chai-jasmine": "^1.0.7",
+    "jasmine": "^2.5.2",
+    "mocha": "^3.0.2"
   }
 }
