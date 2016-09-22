@@ -5,7 +5,7 @@ describe("Boat", function() {
     boat = new Boat();
   });
 
-  it("should have length of two square", function() {
+  it("should have length of two squares", function() {
     expect(boat.size).toEqual(2);
   });
 
